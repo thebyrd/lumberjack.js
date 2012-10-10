@@ -1,4 +1,4 @@
 lumberjack.js
 =============
 
-hard dependency on pancake.js
+hard dependency on pancakes.js
