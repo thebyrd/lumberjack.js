@@ -1,0 +1,19 @@
+{
+  "name": "lumberjack.js",
+  "description": "no idea whatsoever",
+  "contributors" : [
+    { "name": "David Byrd", "twitter": "@davidbyrd11" },
+    { "name": "Steve Kaliski", "twitter": "@sjkaliski" },
+    { "name": "Jeremiah Malina", "twitter": "@JJMalina" },
+    { "name": "Ethan Resnick", "twitter": "@studip101" }
+  ],
+  "version": "0.0.1",
+  "private": true,
+  "main": "index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "~1.5.0"
+  }
+}
